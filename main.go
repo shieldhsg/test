@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	// do some modify
+	// do modify
 	fmt.Println("start test")
 	// do some modify2
 	// do some modify3
