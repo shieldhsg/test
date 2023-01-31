@@ -5,6 +5,5 @@ import "fmt"
 func main(){
 	fmt.Println("start test")
 
-	// do merge op master
-	// do merge op33
+	// do merge op feature1
 }
