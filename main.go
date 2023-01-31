@@ -12,4 +12,6 @@ func main(){
 
 	// something to be stash2
 
+	// do sth to tag
+
 }
